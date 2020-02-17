@@ -23,7 +23,7 @@ RSpec.describe "create and edit form" do
     #   view.lookup_context.prefixes = %w[students]
     #   student = Student.new
     #   assign(:student, student)
-    # 
+    #
     #   render :template => "students/new.html.erb"
     #   expect(rendered).to render_template(:partial => "_form", locals: {student: student})
     # end
